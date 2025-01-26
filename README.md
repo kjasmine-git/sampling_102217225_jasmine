@@ -1,0 +1,1 @@
+This project involves analyzing different sampling techniques to handle imbalanced credit card transaction data and evaluating the performance of various machine learning models on these sampled datasets. The goal is to identify the most effective sampling technique and model combination for predicting fraudulent transactions.
